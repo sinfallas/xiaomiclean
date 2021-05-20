@@ -10,8 +10,11 @@ fi
 
 case "$1" in
 	basico)
+		# android
 		$coman com.android.bookmarkprovider
 		$coman com.android.browser
+		$coman com.android.calendar
+		# miui
 		$coman com.mipay.wallet.id
 		$coman com.mipay.wallet.in
 		$coman com.micredit.in
@@ -24,25 +27,39 @@ case "$1" in
 		$coman com.miui.videoplayer
 		$coman com.miui.notes
 		$coman com.miui.systemAdSolution
+		$coman com.miui.virtualsim
+		$coman com.miui.vsimcore
+		$coman com.miui.enbbs
+		$coman com.miui.userguide
+		# xiaomi
 		$coman com.xiaomi.glgm
 		$coman com.xiaomi.joyose
 		$coman com.xiaomi.payment
 		$coman com.xiaomi.news
 		$coman com.xiaomi.shop
 		$coman com.xiaomi.calendar
-		$coman com.android.calendar
+		$coman com.xiaomi.mirecycle
+		# mi
 		$coman com.mi.globalbrowser
-		$coman com.facebook.services
-		$coman com.facebook.system
-		$coman com.facebook.appmanager
-		$coman com.tencent.soter.soterserver
-		$coman com.tencent.soter.soterservice
-		$coman com.google.android.videos
-		$coman com.google.android.music
-		$coman com.google.android.apps.books
 		$coman com.mi.global.bbs
 		$coman com.mi.global.shop
 		$coman com.mi.globalTrendNews
+		# facebook
+		$coman com.facebook.services
+		$coman com.facebook.system
+		$coman com.facebook.appmanager
+		# google
+		$coman com.google.android.videos
+		$coman com.google.android.music
+		$coman com.google.android.apps.books
+		$coman com.google.android.apps.tachyon
+		$coman com.google.android.talk
+		# varios
+		$coman com.facemoji.lite.xiaomi
+		$coman ru.yandex.searchplugin
+		$coman com.amazon.mShop.android.shopping
+		$coman com.tencent.soter.soterserver
+		$coman com.tencent.soter.soterservice
 		;;
 		
 	app)
