@@ -1,4 +1,16 @@
-commit 4c6c5c2edb1c671f259e6f9eca939587839772ef (HEAD -> master, origin/master, origin/HEAD)
+commit a753dd3c82d4dbad4bbe06ba1e9e3adfe5a69478 (HEAD -> master, origin/master, origin/HEAD)
+Author: Jesus <sinfallas@gmail.com>
+Date:   Thu May 20 16:56:35 2021 -0400
+
+    * nuevas apk para eliminar
+
+commit 2628f7c4a9dde26f94be2a7fbdd1104e804200c2
+Author: Jesus <sinfallas@gmail.com>
+Date:   Sun Jan 31 16:06:26 2021 -0400
+
+    * changelog
+
+commit 4c6c5c2edb1c671f259e6f9eca939587839772ef (tag: v1.1)
 Author: Jesus <sinfallas@gmail.com>
 Date:   Sun Jan 31 14:53:50 2021 -0400
 
